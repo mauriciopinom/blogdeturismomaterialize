@@ -13,5 +13,24 @@ font-size: 20px;
 }
 li{
   margin-bottom: 20px;
-  
+
+}
+.horizontal li{
+  display: inline;
+}
+.tamaño{
+  width: 500px;
+}
+.altura{
+  height: 1100px;
+}
+
+.separacion{
+
+  border-top: 1px lightgrey solid;
+  padding-top: 20px;
+  margin-top: 40px;
+}
+button{
+  width: 100%;
 }
