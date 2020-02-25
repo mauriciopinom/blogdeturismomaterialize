@@ -1,9 +1,7 @@
 
-.logo{
-  height: 50px;
-}
 
-.slogan{
+
+.slogan{        VER VER SLOGAN
 padding-left: 20px;
 font-size: 20px;
 }
@@ -21,9 +19,6 @@ li{
 .tamaño{
   width: 500px;
 }
-.altura{
-  height: 1100px;
-}
 
 .separacion{
 
@@ -33,4 +28,48 @@ li{
 }
 button{
   width: 100%;
+  margin-top: 60px;
+}
+
+.letra{
+  color: white;
+  font-weight: 500;
+}
+.comentario{
+  margin-left: 17px;
+}
+
+.letra2{
+  font-weight: bold;
+}
+
+.altura3{
+  height: 80px;
+}
+
+.ancho{
+  width: 100%;
+}
+@media (max-width: 600px){
+
+.horizontal-redes li{
+  display: inline;
+  margin-left: 8px;
+}
+
+.tamaño{
+  width: 100%;
+}
+
+.centrado{
+  display: flex;
+   justify-content: center;
+
+}
+
+.logo-celular{
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
 }
