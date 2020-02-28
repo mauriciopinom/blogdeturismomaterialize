@@ -50,6 +50,7 @@ button{
 .ancho{
   width: 100%;
 }
+
 @media (max-width: 600px){
 
 .horizontal-redes li{
@@ -71,5 +72,12 @@ button{
   width: 50%;
   display: block;
   margin: 0 auto;
+}
+}
+
+@media (max-width: 900px){
+
+.tamaño{
+  width: 100%;
 }
 }
