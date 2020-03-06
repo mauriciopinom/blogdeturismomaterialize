@@ -1,7 +1,14 @@
 
+body{
+  background-image: url(../img/fondo.jpg);
+  background-size: contain;
+}
 
+.transparencia{
+background-color: rgba(61, 224, 210, 0.8);
+}
 
-.slogan{        
+.slogan{
 padding-left: 20px;
 font-size: 20px;
 }
